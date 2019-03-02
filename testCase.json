@@ -1,0 +1,46 @@
+({
+  "name": "Tom",
+  "workingHours": {
+    "24/02/2019": "6:15",
+    "25/02/2019": "8:20",
+    "26/02/2019": "9:12",
+    "27/02/2019": "15:20"
+  }
+},
+{
+  "name": "Jenny",
+  "workingHours": {
+    "24/02/2019": "7:20",
+    "25/02/2019": "9:15",
+    "26/02/2019": "8:20",
+    "27/02/2019": "9:12"
+  }
+},
+{
+  "name": "Jack",
+  "workingHours": {
+    "2019-03-23": "15:20"
+  }
+},
+{
+  "patientName": "Mary",
+  "doctorName": "Tom",
+  "appointDate": "25/02/2019",
+  "appointTime": "15:20"
+},
+{
+  "patientName": "Mary",
+  "doctorName": "Tom",
+  "appointDate": "25/02/2019",
+  "appointTime": "21:24"
+},
+{
+  "patientName": "Mary",
+  "doctorName": "Tom",
+  "appointDate": "25/02/2019",
+  "appointTime": "16:18"
+},
+{
+  "testdate": "25/02/2019",
+  "testtime": "04:00"
+})
